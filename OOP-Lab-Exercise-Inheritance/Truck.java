@@ -8,6 +8,6 @@ public class Truck extends Car {
 	}
 
 	public String toString() {
-		return super.toString() + super.toString();
+		return "monster " +super.toString() + super.toString();
 	}
 }
